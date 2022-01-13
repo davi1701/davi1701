@@ -1,16 +1,18 @@
 <div align="center">
   Oieee! Sou o **Davi dos Santos** 👋
 </div>
+<br>
 
 
-- 🔭 No momento, estou trabalhando na com 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 No momento, estou trabalhando com HTML, PHP;
+- 🌱 Estou aprendendo Python, JavaScript e TypeScript;
+- 👯 Estou procurando colaborar em PHP, CSS, HTML;
+- 🤔 Estou procurando ajuda com JavaScrip e TypeScript;
+- ⚡ Curiosidade: Cursando Sistema da informação pelo Instituto Federal do tocantins, formado em Tecnico em Informatica.
+
+
+<br>
+<br>
 
 <div align="center">
   <a href="https://github.com/davi1701">
@@ -29,7 +31,7 @@
 </div>
   
   ##
-  
+  Redes Sociais para contato:
 <div> 
   <a href="https://www.instagram.com/davidossantos.pereira/?hl=pt-br" target="_blank"><img height="30em" src="https://th.bing.com/th/id/R.097b77494452f9352630bcf79697db4d?rik=cXUuSuzxUMC4SQ&riu=http%3a%2f%2fwww.pngimagenes.com%2fuploads%2fpng-gratis%2fPng-Instagram-Logo-Gratis-Cortar-ks92GI.png&ehk=EbpxHosM3BBiLydbHws2JBJA8rCXe5hPI2j3WRoXm5M%3d&risl=&pid=ImgRaw&r=0" target="_blank"></a>
  <a href="https://discord.gg/GGuXET64" target="_blank"><img height="30em" src="https://pnggrid.com/wp-content/uploads/2021/05/Discord-Logo-Circle-1024x1024.png" target="_blank"></a> 
