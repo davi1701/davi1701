@@ -4,7 +4,6 @@
 <br>
 
 
-- 🔭 No momento, estou trabalhando com HTML, PHP;
 - 🌱 Estou aprendendo Python, JavaScript e TypeScript;
 - 👯 Estou procurando colaborar em PHP, CSS, HTML;
 - 🤔 Estou procurando ajuda com JavaScrip e TypeScript;
