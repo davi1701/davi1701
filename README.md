@@ -4,8 +4,9 @@
 <br>
 
 
-- 🌱 Estou aprendendo Python, Java, Flutter, JavaScript e TypeScript;
-- 👯 Estou procurando colaborar em PHP, CSS, HTML;
+- 💻 Estou aprendendo Python, Java, Flutter, JavaScript e TypeScript;
+- 👨‍💻 Developer Front-end, Back-end e Full Stack.
+- 🤵 Estou procurando colaborar em PHP, CSS, HTML;
 - 🤔 Estou procurando ajuda com JavaScrip e TypeScript;
 - ⚡ Curiosidade: Cursando Sistema da informação pelo Instituto Federal do tocantins, formado em Tecnico em Informatica.
 
